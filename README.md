@@ -1,6 +1,6 @@
 Our Idea is to create a simple python based employee management system that utilizes Object Oriented Programming. Run the script using the following code in ther command line after navigating into the directory:
 ```
-python3 oop-project.py 
+python3 OOP-project.py 
 ```
 Then you will be presented with 4 options :
 ```
