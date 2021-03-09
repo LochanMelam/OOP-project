@@ -9,4 +9,4 @@ Enter 2. To delete Profile of an existing User
 Enter 3. To Modify detail's of an existing User
 Enter 4. To add a new User
 ```
-The script will execute actions according to the given input given by the user.
+The script will execute actions according to the input given by the user.
